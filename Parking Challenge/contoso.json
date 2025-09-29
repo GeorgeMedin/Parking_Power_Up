@@ -1,0 +1,63 @@
+{
+  "name": "Contoso High School Theme",
+  "dataColors": [
+    "#7B1E3A", 
+    "#C5A047", 
+    "#333333", 
+    "#FFFFFF"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#C5A047",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#7B1E3A" } },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#333333" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "general": [
+          {
+            "outlineColor": { "solid": { "color": "#C5A047" } }
+          }
+        ],
+        "header": [
+          {
+            "foreground": { "solid": { "color": "#7B1E3A" } }
+          }
+        ]
+      }
+    },
+    "button": {
+      "*": {
+        "outline": [
+          {
+            "color": { "solid": { "color": "#C5A047" } }
+          }
+        ],
+        "shape": [
+          {
+            "color": { "solid": { "color": "#7B1E3A" } }
+          }
+        ],
+        "text": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    }
+  }
+}

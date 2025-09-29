@@ -1,0 +1,21 @@
+🎨 Paleta de colores Contoso High School
+
+Primario (60%): Maroon (bordó universitario) → #7B1E3A RGBA(123; 30; 58; 1)
+
+Secundario (30%): Dorado elegante → #C5A047 RGBA(197; 160; 71; 1)
+
+Acento (10%): Blanco puro → #FFFFFF RGBA(255; 255; 255; 1)
+
+Texto / apoyo – Gris oscuro: RGBA(51; 51; 51; 1)
+
+📊 Uso recomendado en Power BI (Canvas Model):
+
+Fondo principal del dashboard: blanco (#FFFFFF) → para mantener limpieza y legibilidad.
+
+Elementos destacados (barras, indicadores clave, títulos secundarios): maroon (#7B1E3A).
+
+Detalles/acento (íconos, KPI críticos, botones de navegación, segmentadores): dorado (#C5A047).
+
+🔎 Opcional (para mayor contraste si el dashboard lo requiere):
+
+Negro suave / Gris oscuro para texto → #333333.
